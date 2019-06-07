@@ -62,7 +62,7 @@ it’s very important to close a lesson and make sure everyone goes out on posit
 
 
 
-> Started by [Lina Karimi](https://www.linkedin.com/in/lina-karimi-9a3b9652/)  
+> Started by [Lina Toumi](https://www.linkedin.com/in/lina-karimi-9a3b9652/)  
 
 ___
 ___

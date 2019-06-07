@@ -13,23 +13,25 @@
 
 ## EXAMPLE OF HOW A 1H LESSON CAN GO
 
-Before, as preparation
-### OBJECTIVES 
+_prepare this ahead of time_
+```
+OBJECTIVES 
 
 this is both for you to know where you’re heading and for the students
-    * Learn the basics of HTML language
-    * Identify what a coding language means
+* Learn the basics of HTML language
+* Identify what a coding language means
 
-### MATERIALS 
+MATERIALS 
 
 it’s better to know what you need before starting a class so you can have a quick check before starting
-    * Powerpoint called XYZ
-    * Screenshots of what a page with only HTML language looks like
-    * USB keys with Notepad++ where the students will save their work
-    * Handouts with a step by step exercise on how to create a HTML page
-    * Handout with all the websites that will be useful
+* Powerpoint called XYZ
+* Screenshots of what a page with only HTML language looks like
+* USB keys with Notepad++ where the students will save their work
+* Handouts with a step by step exercise on how to create a HTML page
+* Handout with all the websites that will be useful
+```
 
-Running the Class
+_durring class_
 
 (this cycle can be repeated multiple times per class, once per topic covered.  times should be adjusted according to the need of the material and class, but as a general rule try to keep explicit instruction shorter than guided practice)
 
